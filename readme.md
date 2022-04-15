@@ -1,0 +1,1 @@
+This is a complex Dumpster Rental price estimator that calculate dumpster rental price based on product and dumpster size. It also ilestrate the space occupaid by user product.
